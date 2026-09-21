@@ -20,7 +20,7 @@ export function ContactForm() {
         </span>
         <h3 className="mt-5 font-serif text-2xl">Your Brief Is In.</h3>
         <p className="mx-auto mt-3 max-w-md text-sm leading-relaxed text-muted-foreground">
-          Thank you — we&apos;ve received your details. For the fastest response, message us on
+          Thank you - we&apos;ve received your details. For the fastest response, message us on
           WhatsApp and we&apos;ll begin mapping out your campaign right away.
         </p>
       </div>
@@ -58,7 +58,7 @@ export function ContactForm() {
           name="service"
           className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm text-foreground"
         >
-          <option>Not sure yet — help me decide</option>
+          <option>Not sure yet - help me decide</option>
           {SERVICES.map((s) => (
             <option key={s.title}>{s.title}</option>
           ))}

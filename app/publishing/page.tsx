@@ -5,9 +5,9 @@ import { SiteFooter } from '@/components/site-footer'
 import { CTA } from '@/components/sections/cta'
 
 export const metadata: Metadata = {
-  title: 'Publishing — BuchBoost',
+  title: 'Publishing - Buchaufstieg',
   description:
-    'BuchBoost is now a publisher — offering full-service publishing, distribution, branding, and author-career support for authors worldwide.',
+    'Buchaufstieg is now a publisher - offering full-service publishing, distribution, branding, and author-career support for authors worldwide.',
 }
 
 const publishingServices = [
@@ -216,10 +216,10 @@ export default function PublishingPage() {
             <div className="flex flex-col items-center text-center">
               <p className="mb-3 text-xs uppercase tracking-[0.25em] text-primary">📢 Big News</p>
               <h1 className="max-w-3xl font-serif text-4xl font-semibold tracking-tight sm:text-5xl">
-                BuchBoost Is Now a Publisher
+                Buchaufstieg Is Now a Publisher
               </h1>
               <p className="mt-4 max-w-2xl text-base leading-relaxed text-muted-foreground">
-                We&apos;re no longer just marketing your book — we can publish it, distribute it worldwide, and build the career around it. From your first ISBN to your tenth award submission, we&apos;re with you.
+                We&apos;re no longer just marketing your book - we can publish it, distribute it worldwide, and build the career around it. From your first ISBN to your tenth award submission, we&apos;re with you.
               </p>
             </div>
           </div>

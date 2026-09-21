@@ -7,7 +7,7 @@ import { PROCESS_STEPS } from '@/lib/site-data'
 import { CTA } from '@/components/sections/cta'
 
 export const metadata: Metadata = {
-  title: 'How It Works — BuchBoost',
+  title: 'How It Works - Buchaufstieg',
   description:
     'A four-step process from manuscript to movement with cinematic assets, SEO dashboards, and strategic author growth campaigns.',
 }
@@ -16,19 +16,19 @@ const deliverables = [
   {
     icon: '🎨',
     title: 'Cinematic Book Mockups',
-    body: 'Your book cover transformed into breathtaking 3D visual scenes — floating in space, resting on ancient stone, glowing in an enchanted forest. Used across Amazon, Goodreads, and social media. Your book looks like it belongs on a bestseller shelf.',
+    body: 'Your book cover transformed into breathtaking 3D visual scenes - floating in space, resting on ancient stone, glowing in an enchanted forest. Used across Amazon, Goodreads, and social media. Your book looks like it belongs on a bestseller shelf.',
     tags: 'Amazon A+ Content · Social Posts · Goodreads Banners',
   },
   {
     icon: '🎭',
-    title: 'Author Poster — You Are the Story',
-    body: 'We believe: without the author, there is no story. Author posters place you at the centre — your face, your presence, your name — surrounded by the world of your book. These cinematic posters build personal brand recognition that readers remember long after the last page.',
+    title: 'Author Poster - You Are the Story',
+    body: 'We believe: without the author, there is no story. Author posters place you at the centre - your face, your presence, your name - surrounded by the world of your book. These cinematic posters build personal brand recognition that readers remember long after the last page.',
     tags: 'Social Campaigns · Press Kits · Amazon Author Page',
   },
   {
     icon: '📚',
     title: 'Goodreads Group Placements',
-    body: 'Strategic placement inside the most active reader communities on Goodreads — matched precisely to your genre and language market. Readers engage, add to shelves, and share. This is where organic discovery lives.',
+    body: 'Strategic placement inside the most active reader communities on Goodreads - matched precisely to your genre and language market. Readers engage, add to shelves, and share. This is where organic discovery lives.',
     tags: '150M+ Reader Community · Algorithm Boosting · Reviews',
   },
   {
@@ -46,7 +46,7 @@ const deliverables = [
   {
     icon: '🌍',
     title: 'Multi-Language Campaigns',
-    body: 'Your story has no borders. We run campaigns in French, German, English, Spanish, and Dutch — targeting reader communities across 12+ countries worldwide.',
+    body: 'Your story has no borders. We run campaigns in French, German, English, Spanish, and Dutch - targeting reader communities across 12+ countries worldwide.',
     tags: '5 Language Markets · 12+ Countries · Cross-Cultural',
   },
 ]
@@ -104,7 +104,7 @@ export default function HowItWorksPage() {
             <SectionHeading
               eyebrow="This Is What Sets Us Apart"
               title="Every Campaign Comes With Its Own Live SEO Dashboard"
-              subtitle="Most authors never see the actual data behind their book’s discoverability — they just hope it’s working. We don’t do hope. Every active campaign is tracked on a real, live dashboard: the exact keywords readers are searching, how much traffic each one drives, where your readers are actually discovering you, and how your visibility is trending week over week. This is the difference between a marketing agency that tells you it’s working, and one that shows you."
+              subtitle="Most authors never see the actual data behind their book’s discoverability - they just hope it’s working. We don’t do hope. Every active campaign is tracked on a real, live dashboard: the exact keywords readers are searching, how much traffic each one drives, where your readers are actually discovering you, and how your visibility is trending week over week. This is the difference between a marketing agency that tells you it’s working, and one that shows you."
             />
 
             <div className="mt-10 rounded-2xl border border-border/60 bg-background p-5">
@@ -114,13 +114,13 @@ export default function HowItWorksPage() {
             </div>
 
             <p className="mt-5 text-sm text-muted-foreground">
-              ✦ A real, live Book Visibility Dashboard from an active campaign — keyword rankings, search volume, referral traffic, and reader discovery sources, updated continuously. This is standard on every campaign we run.
+              ✦ A real, live Book Visibility Dashboard from an active campaign - keyword rankings, search volume, referral traffic, and reader discovery sources, updated continuously. This is standard on every campaign we run.
             </p>
 
             <div className="mt-12">
               <h3 className="font-serif text-2xl">Plus a Monthly Book Health Checkup</h3>
               <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
-                Beyond keywords, we track the overall health of your book&apos;s online presence — traffic trends, bounce rate, top referral sources, and a single clear score so you always know exactly where you stand. No guesswork, no vague “it&apos;s going well.” Just the numbers.
+                Beyond keywords, we track the overall health of your book&apos;s online presence - traffic trends, bounce rate, top referral sources, and a single clear score so you always know exactly where you stand. No guesswork, no vague “it&apos;s going well.” Just the numbers.
               </p>
             </div>
 
@@ -131,7 +131,7 @@ export default function HowItWorksPage() {
             </div>
 
             <p className="mt-5 text-sm text-muted-foreground">
-              ✦ A real Book Health Checkup from an active campaign — an at-a-glance health score, traffic trends, top sources, and key takeaways, delivered every month.
+              ✦ A real Book Health Checkup from an active campaign - an at-a-glance health score, traffic trends, top sources, and key takeaways, delivered every month.
             </p>
 
             <div className="mt-12 text-center">

@@ -6,7 +6,7 @@ import { SiteFooter } from '@/components/site-footer'
 import { TRAILER_ITEMS } from '@/lib/site-data'
 
 export const metadata: Metadata = {
-  title: 'Trailers — BuchBoost',
+  title: 'Trailers - Buchaufstieg',
   description: 'Every film below was made for a real author by our production team. Click to watch on Google Drive.',
 }
 

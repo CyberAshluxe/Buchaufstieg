@@ -19,14 +19,14 @@ export function AuthorReviewCarousel() {
           Faces Behind the Reviews
         </h2>
         <p className="mt-5 max-w-3xl text-base leading-relaxed text-muted-foreground">
-          We don&apos;t expose our authors without permission — these are the few who agreed to let us share their photo alongside their words.
+          We don&apos;t expose our authors without permission - these are the few who agreed to let us share their photo alongside their words.
         </p>
 
         <div ref={carouselRef} className="mt-12 flex snap-x snap-mandatory gap-6 overflow-x-auto scroll-smooth pb-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
           {AUTHOR_REVIEWS.map((review) => (
             <article key={review.name} className="flex min-w-full snap-center flex-col overflow-hidden rounded-2xl border border-border/60 bg-card md:flex-row">
               <div className="flex items-center justify-center bg-background p-5 md:w-2/5 md:p-8">
-                <img src={review.image} alt={`${review.name} — author`} className="max-h-80 w-full rounded-xl object-contain" />
+                <img src={review.image} alt={`${review.name} - author`} className="max-h-80 w-full rounded-xl object-contain" />
               </div>
               <div className="flex flex-1 flex-col justify-center p-7 sm:p-10">
                 <span className="font-serif text-5xl leading-none text-primary" aria-hidden>&ldquo;</span>

@@ -7,9 +7,9 @@ import { CTA } from '@/components/sections/cta'
 import { Goodreads } from '@/components/sections/goodreads'
 
 export const metadata: Metadata = {
-  title: 'Portfolio — Real Campaigns, Real Authors | BuchBoost',
+  title: 'Portfolio - Real Campaigns, Real Authors | Buchaufstieg',
   description:
-    'Explore real BuchBoost campaigns: cinematic book mockups, author posters, and verified Goodreads placements for authors across French, German, and English markets.',
+    'Explore real Buchaufstieg campaigns: cinematic book mockups, author posters, and verified Goodreads placements for authors across French, German, and English markets.',
 }
 
 export default function PortfolioPage() {
@@ -22,7 +22,7 @@ export default function PortfolioPage() {
             <SectionHeading
               eyebrow="The Portfolio"
               title="Real Campaigns. Real Authors. Real Results."
-              subtitle="Every image below is an actual campaign asset we created for a real author — cinematic book mockups, author posters, and verified Goodreads group placements across international markets."
+              subtitle="Every image below is an actual campaign asset we created for a real author - cinematic book mockups, author posters, and verified Goodreads group placements across international markets."
             />
           </div>
         </section>

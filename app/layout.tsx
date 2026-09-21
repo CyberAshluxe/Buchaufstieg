@@ -16,9 +16,9 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'BuchBoost — Global Online Book Marketing & Publishing Agency',
+  title: 'Buchaufstieg - Global Online Book Marketing & Publishing Agency',
   description:
-    'A fully online, international book marketing and publishing agency — transforming authors into bestsellers across Amazon, Goodreads, and every major platform.',
+    'A fully online, international book marketing and publishing agency - transforming authors into bestsellers across Amazon, Goodreads, and every major platform.',
   generator: 'v0.app',
 }
 

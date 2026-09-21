@@ -7,8 +7,8 @@ export function Team() {
       <div className="mx-auto max-w-6xl px-5 py-24">
         <SectionHeading
           eyebrow="The Agency Built for Authors"
-          title="Meet the BuchBoost Team"
-          subtitle="A boutique agency built on two pillars — strategic precision and genuine love for literature. Every campaign carries our personal signature."
+          title="Meet the Buchaufstieg Team"
+          subtitle="A boutique agency built on two pillars - strategic precision and genuine love for literature. Every campaign carries our personal signature."
         />
 
         <div className="mt-14 grid gap-6 md:grid-cols-2">

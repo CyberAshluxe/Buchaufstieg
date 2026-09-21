@@ -7,9 +7,9 @@ import { CTA } from '@/components/sections/cta'
 import { AuthorReviewCarousel } from '@/components/sections/author-review-carousel'
 
 export const metadata: Metadata = {
-  title: 'Results — BuchBoost',
+  title: 'Results - Buchaufstieg',
   description:
-    'Real author results, verified sales data, Goodreads evidence, and campaign outcomes from BuchBoost book marketing campaigns.',
+    'Real author results, verified sales data, Goodreads evidence, and campaign outcomes from Buchaufstieg book marketing campaigns.',
 }
 
 const resultStats = [
@@ -40,9 +40,9 @@ const goodreadsResults = [
     views: '528,206 Views',
     group: 'The Last Light Circle › Wartime Literature',
     book: 'In Our Strange Gardens',
-    author: 'Michel Quint — 2nd Placement',
+    author: 'Michel Quint - 2nd Placement',
     image: '/528,206 views.png',
-    body: 'A second targeted group placement for the same title — amplifying reach across wartime literature readers.',
+    body: 'A second targeted group placement for the same title - amplifying reach across wartime literature readers.',
   },
   {
     marker: '✦',
@@ -60,7 +60,7 @@ const goodreadsResults = [
     book: 'Bewusst DENKEN',
     author: 'Bernhard Fink',
     image: '/Bewusst DENKEN.png',
-    body: 'Austrian self-help title placed in the German-language psychology group — 52K views, hundreds of shelf adds.',
+    body: 'Austrian self-help title placed in the German-language psychology group - 52K views, hundreds of shelf adds.',
   },
   {
     marker: '✦',
@@ -69,7 +69,7 @@ const goodreadsResults = [
     book: 'Aus den Augen',
     author: 'Christoph Braendle',
     image: '/Aus den Augen.png',
-    body: 'Placed in the German psychological drama community — a precision match that drove engaged, committed readers.',
+    body: 'Placed in the German psychological drama community - a precision match that drove engaged, committed readers.',
   },
   {
     marker: '✦',
@@ -78,7 +78,7 @@ const goodreadsResults = [
     book: 'The Caddie Who Knew Ben Hogan',
     author: 'John Coyne',
     image: '/The Caddie Who Knew Ben Hogan.png',
-    body: 'English-language placement in a curated literary fiction group — proof our reach extends across international markets.',
+    body: 'English-language placement in a curated literary fiction group - proof our reach extends across international markets.',
   },
 ]
 
@@ -157,17 +157,17 @@ export default function ResultsPage() {
               <SectionHeading
                 eyebrow="Verified Proof"
                 title="Live Sales Dashboard Screenshots"
-                subtitle="Real sales increase screenshots sent directly to us by our buyers. Account names are hidden at their request — but the numbers speak for themselves. This is what real, verifiable results look like."
+                subtitle="Real sales increase screenshots sent directly to us by our buyers. Account names are hidden at their request - but the numbers speak for themselves. This is what real, verifiable results look like."
                 align="left"
               />
             </div>
             <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
               {[
-                { src: '/screenshot%201.png', label: 'Author-Submitted — Amazon KDP Dashboard — $42,215 Estimated Royalties (This Month)' },
-                { src: '/screenshot%202.jpg', label: 'Author-Submitted — Amazon KDP Dashboard — $820,564.50 Royalties Earned' },
-                { src: '/screenshot%203.png', label: 'Author-Submitted — Amazon KDP Dashboard — £5,773.75 Estimated Royalties (August)' },
-                { src: '/screenshot%204.png', label: 'Author-Submitted — Online Store Dashboard — $30,971.74 Daily Sales, 814 Orders' },
-                { src: '/screenshot%205.png', label: 'Campaign Summary — Monthly Book Marketing Sales Report Compiled From Buyer Data' },
+                { src: '/screenshot%201.png', label: 'Author-Submitted - Amazon KDP Dashboard - $42,215 Estimated Royalties (This Month)' },
+                { src: '/screenshot%202.jpg', label: 'Author-Submitted - Amazon KDP Dashboard - $820,564.50 Royalties Earned' },
+                { src: '/screenshot%203.png', label: 'Author-Submitted - Amazon KDP Dashboard - £5,773.75 Estimated Royalties (August)' },
+                { src: '/screenshot%204.png', label: 'Author-Submitted - Online Store Dashboard - $30,971.74 Daily Sales, 814 Orders' },
+                { src: '/screenshot%205.png', label: 'Campaign Summary - Monthly Book Marketing Sales Report Compiled From Buyer Data' },
               ].map((item) => (
                 <div key={item.label} className="rounded-2xl border border-border/60 bg-card p-4">
                   <img
@@ -196,7 +196,7 @@ export default function ResultsPage() {
                   alt="Bernhard Fink Goodreads screenshot showing 52,715 views"
                   className="h-auto w-full rounded-xl border border-border/60 bg-background object-contain"
                 />
-                <p className="mt-3 text-sm text-muted-foreground">✦ Bernhard Fink — 52,715 Goodreads Views</p>
+                <p className="mt-3 text-sm text-muted-foreground">✦ Bernhard Fink - 52,715 Goodreads Views</p>
               </div>
               <div className="rounded-2xl border border-border/60 bg-card p-5">
                 <img
@@ -204,7 +204,7 @@ export default function ResultsPage() {
                   alt="Live Goodreads discussion screenshot showing 394 views"
                   className="h-auto w-full rounded-xl border border-border/60 bg-background object-contain"
                 />
-                <p className="mt-3 text-sm text-muted-foreground">✦ Live Goodreads Discussion — 394 Views</p>
+                <p className="mt-3 text-sm text-muted-foreground">✦ Live Goodreads Discussion - 394 Views</p>
               </div>
             </div>
           </div>
@@ -219,16 +219,16 @@ export default function ResultsPage() {
             />
 
             <div className="mx-auto mt-12 max-w-4xl space-y-6 text-base leading-relaxed text-foreground/90">
-              <p>Goodreads has 150 million registered readers — and buried inside it are thousands of highly active discussion groups, each filled with passionate readers who are actively looking for their next book. These are not passive scrollers. These are people who finish 30, 50, 80 books a year. They write reviews. They recommend to friends. They move the needle on Amazon rankings just by talking.</p>
-              <p>When your book appears inside a relevant discussion group — with a compelling description, the right genre match, and a professional presentation — those readers don&apos;t just see it. They engage with it. They add it to their shelves. They post comments. They share. And every single one of those actions triggers Goodreads&apos; algorithm to push your book further to even more readers.</p>
-              <p>This is not advertising. It is not a paid promotion that readers scroll past. It is organic discovery — the most trusted form of book marketing that exists. A reader who finds your book in a discussion group they love feels like they discovered it themselves. And that feeling is what turns a reader into a buyer, and a buyer into a loyal fan who tells everyone they know.</p>
-              <p>Most authors never touch Goodreads groups because they don&apos;t know how to access them, which ones to target, or how to present their book without getting ignored or removed. We do. We&apos;ve placed hundreds of books into the exact right groups — and the numbers speak for themselves.</p>
+              <p>Goodreads has 150 million registered readers - and buried inside it are thousands of highly active discussion groups, each filled with passionate readers who are actively looking for their next book. These are not passive scrollers. These are people who finish 30, 50, 80 books a year. They write reviews. They recommend to friends. They move the needle on Amazon rankings just by talking.</p>
+              <p>When your book appears inside a relevant discussion group - with a compelling description, the right genre match, and a professional presentation - those readers don&apos;t just see it. They engage with it. They add it to their shelves. They post comments. They share. And every single one of those actions triggers Goodreads&apos; algorithm to push your book further to even more readers.</p>
+              <p>This is not advertising. It is not a paid promotion that readers scroll past. It is organic discovery - the most trusted form of book marketing that exists. A reader who finds your book in a discussion group they love feels like they discovered it themselves. And that feeling is what turns a reader into a buyer, and a buyer into a loyal fan who tells everyone they know.</p>
+              <p>Most authors never touch Goodreads groups because they don&apos;t know how to access them, which ones to target, or how to present their book without getting ignored or removed. We do. We&apos;ve placed hundreds of books into the exact right groups - and the numbers speak for themselves.</p>
             </div>
 
             <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
               {[
                 { value: '150M', label: 'Active Readers on Goodreads' },
-                { value: '1.7M+', label: 'Combined Group Views — Our Campaigns' },
+                { value: '1.7M+', label: 'Combined Group Views - Our Campaigns' },
                 { value: '72%', label: 'Of Readers Act on Goodreads Recommendations' },
                 { value: '48h', label: 'Average Time to First Visible Results' },
               ].map((stat) => (

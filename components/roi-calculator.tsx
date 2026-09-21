@@ -74,14 +74,14 @@ export function RoiCalculator() {
         <SectionHeading
           eyebrow="Interactive ROI Calculator"
           title="What Will You Get For Your Investment?"
-          subtitle="Drag the sliders. Watch the numbers move. This is real math built from 300+ campaigns — not a sales pitch."
+          subtitle="Drag the sliders. Watch the numbers move. This is real math built from 300+ campaigns - not a sales pitch."
         />
 
         <div className="mt-14 grid gap-8 lg:grid-cols-2">
           <div className="rounded-xl border border-border/60 bg-card p-7">
             <h3 className="font-serif text-xl">🎛️ Your Marketing Budget</h3>
             <p className="mt-1 text-sm text-muted-foreground">
-              Type in exact numbers or drag the sliders — your call.
+              Type in exact numbers or drag the sliders - your call.
             </p>
             <div className="mt-6 space-y-5">
               {CHANNELS.map((c) => (
@@ -123,7 +123,7 @@ export function RoiCalculator() {
           <div className="rounded-xl border border-primary/20 bg-primary/5 p-7">
             <h3 className="font-serif text-xl">📈 Your Projected Results</h3>
             <p className="mt-1 text-sm text-muted-foreground">
-              Based on your investment and campaign settings — updating live
+              Based on your investment and campaign settings - updating live
             </p>
 
             <dl className="mt-6 space-y-4">

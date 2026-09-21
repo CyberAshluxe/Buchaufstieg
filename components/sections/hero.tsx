@@ -22,8 +22,8 @@ export function Hero() {
           Your Book Deserves to Shine
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground">
-          A fully online, international book marketing and publishing agency — transforming authors
-          into bestsellers across Amazon, Goodreads, and every major platform. Entirely online — no
+          A fully online, international book marketing and publishing agency - transforming authors
+          into bestsellers across Amazon, Goodreads, and every major platform. Entirely online - no
           physical office, serving authors worldwide.
         </p>
 

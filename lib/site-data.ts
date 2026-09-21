@@ -65,7 +65,7 @@ export const PILLARS = [
   },
   {
     title: 'Multilingual Reach',
-    body: 'Native campaigns in French, German, English, Spanish — reaching readers across international markets simultaneously.',
+    body: 'Native campaigns in French, German, English, Spanish - reaching readers across international markets simultaneously.',
   },
   {
     title: 'Proven Results',
@@ -73,11 +73,11 @@ export const PILLARS = [
   },
   {
     title: 'Surgical Targeting',
-    body: "We place your book in front of readers who are already looking for exactly what you've written — not random traffic.",
+    body: "We place your book in front of readers who are already looking for exactly what you've written - not random traffic.",
   },
   {
     title: 'Full Transformation',
-    body: 'From unknown author to recognized voice — we handle every touchpoint of your literary brand evolution.',
+    body: 'From unknown author to recognized voice - we handle every touchpoint of your literary brand evolution.',
   },
   {
     title: 'Boutique Dedication',
@@ -314,7 +314,7 @@ export const SERVICES: Service[] = [
     forWho: [
       'Authors who genuinely believe in their book and are ready to show up for it',
     ],
-    note: '🎁 Message us through the Contact page — if we can tell you\u2019re truly ready, we\u2019ll build your first Author Reel completely free.',
+    note: '🎁 Message us through the Contact page - if we can tell you\u2019re truly ready, we\u2019ll build your first Author Reel completely free.',
   },
 ]
 
@@ -334,7 +334,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   { kind: 'poster', title: 'Theaterblut', author: 'Rita Hausen', market: 'German Market', image: '/Theaterblut.jpg' },
   { kind: 'mockup', title: 'Aus den Augen', author: 'Christoph Braendle', market: 'German Market', image: '/Aus den Augen.jpg' },
   { kind: 'mockup', title: 'Die Macht der Kristalle', author: 'Rudolf Bulant', market: 'German Market', image: '/Die Macht der Kristalle.jpg' },
-  { kind: 'mockup', title: 'Reiki — Handbuch', author: "Johnny De'Carli", market: 'German Market', image: '/Reiki — Handbuch.jpg' },
+  { kind: 'mockup', title: 'Reiki - Handbuch', author: "Johnny De'Carli", market: 'German Market', image: '/Reiki - Handbuch.jpg' },
   { kind: 'mockup', title: "L'Invention des Dimanches", author: 'Gwenaëlle Abolivier', market: 'French Market', image: "/L'Invention des Dimanches.jpg" },
   { kind: 'mockup', title: 'Main Basse sur le 6e Continent', author: 'Nicolas Antoniucci', market: 'French Market', image: '/Main Basse sur le 6e Continent.jpg' },
   { kind: 'mockup', title: 'The BumbleBeatle Battle', author: 'Oli Boli', market: 'German Market', image: '/The BumbleBeatle Battle.jpg' },
@@ -357,39 +357,39 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
 export const TESTIMONIALS = [
   {
     quote:
-      "In just weeks, my Goodreads discussion reached over 52,000 views. I had been invisible for years. BuchBoost didn\u2019t just market my book — they rebuilt my entire author presence from the ground up.",
+      "In just weeks, my Goodreads discussion reached over 52,000 views. I had been invisible for years. Buchaufstieg didn\u2019t just market my book - they rebuilt my entire author presence from the ground up.",
     name: 'Bernhard Fink',
-    book: 'Bewusst DENKEN — Austria',
+    book: 'Bewusst DENKEN - Austria',
   },
   {
     quote:
       'My novels were only known in France. Today, The Island of Kamas has readers in 6 countries, bilingual trailers, and a cinematic presence that rivals major publishers. The team has an extraordinary gift for storytelling.',
     name: 'Nicolas Antoniucci',
-    book: 'The Island of Kamas — France',
+    book: 'The Island of Kamas - France',
   },
   {
     quote:
       'The trailer they created for Déviances left me speechless. It captured the soul of my writing in 60 seconds. Readers who watched it immediately added the book to their reading lists. Pure magic.',
     name: 'Lucile Gauchers',
-    book: 'Déviances Nouvelles Sombres — France',
+    book: 'Déviances Nouvelles Sombres - France',
   },
   {
     quote:
-      "Working with BuchBoost has been a revelation. My fantasy series was reaching only local readers. After their campaign for L\u2019Ombre de l\u2019Étoile, I found myself in reading lists across six countries.",
+      "Working with Buchaufstieg has been a revelation. My fantasy series was reaching only local readers. After their campaign for L\u2019Ombre de l\u2019Étoile, I found myself in reading lists across six countries.",
     name: 'Marina Tirion',
-    book: "L'Ombre de l'Étoile — France",
+    book: "L'Ombre de l'Étoile - France",
   },
   {
     quote:
-      'As a literary author writing in Hungarian and German, I never imagined an English-market campaign was possible. BuchBoost made it happen, and now In Our Strange Gardens has readers across three language markets.',
+      'As a literary author writing in Hungarian and German, I never imagined an English-market campaign was possible. Buchaufstieg made it happen, and now In Our Strange Gardens has readers across three language markets.',
     name: 'Ferenc Barnás',
-    book: 'Bis ans Ende unserer Leben — Hungary/Germany',
+    book: 'Bis ans Ende unserer Leben - Hungary/Germany',
   },
   {
     quote:
-      'Die Macht der Kristalle was a niche science fiction novel. After BuchBoost\u2019s campaign and the Goodreads placement, I received my first 5-star international review within days. The reach they have is extraordinary.',
+      'Die Macht der Kristalle was a niche science fiction novel. After Buchaufstieg\u2019s campaign and the Goodreads placement, I received my first 5-star international review within days. The reach they have is extraordinary.',
     name: 'Rudolf Bulant',
-    book: 'Die Macht der Kristalle — Germany',
+    book: 'Die Macht der Kristalle - Germany',
   },
 ]
 
@@ -397,17 +397,17 @@ export const AUTHOR_REVIEWS = [
   {
     quote: 'My novels were only known in France. Today, The Island of Kamas has readers in 6 countries, bilingual trailers, and a cinematic presence that rivals major publishers. The team has an extraordinary gift for storytelling.',
     name: 'Nicolas Antoniucci',
-    book: 'The Island of Kamas — France',
+    book: 'The Island of Kamas - France',
     image: '/Nicolas Antoniucci.jpg',
   },
   {
-    quote: "Working with BuchBoost has been a revelation. My fantasy series was reaching only local readers. After their campaign for L'Ombre de l'Étoile, I found myself in reading lists across six countries.",
+    quote: "Working with Buchaufstieg has been a revelation. My fantasy series was reaching only local readers. After their campaign for L'Ombre de l'Étoile, I found myself in reading lists across six countries.",
     name: 'Marina Tirion',
-    book: "L'Ombre de l'Étoile — France",
+    book: "L'Ombre de l'Étoile - France",
     image: '/Marina Tirion.jpg',
   },
   {
-    quote: "I'd seen plenty of generic book trailers before and expected the same. What BuchBoost delivered was genuinely cinematic — the kind of quality I'd expect from a major publisher, not a self-published title.",
+    quote: "I'd seen plenty of generic book trailers before and expected the same. What Buchaufstieg delivered was genuinely cinematic - the kind of quality I'd expect from a major publisher, not a self-published title.",
     name: 'Neil Griffiths',
     book: 'United Kingdom',
     image: '/Neil Griffiths.jpg',
@@ -415,37 +415,37 @@ export const AUTHOR_REVIEWS = [
   {
     quote: 'The trailer they created for Déviances left me speechless. It captured the soul of my writing in 60 seconds. Readers who watched it immediately added the book to their reading lists. Pure magic.',
     name: 'Lucile Gauchers',
-    book: 'Déviances Nouvelles Sombres — France',
+    book: 'Déviances Nouvelles Sombres - France',
     image: '/Lucile Gauchers.jpg',
   },
   {
-    quote: 'I write dark German thrillers and fantasy, a niche I thought would always stay small. The trailers BuchBoost created gave my books a cinematic presence I never expected — readers started discovering my work who had never heard of me before.',
+    quote: 'I write dark German thrillers and fantasy, a niche I thought would always stay small. The trailers Buchaufstieg created gave my books a cinematic presence I never expected - readers started discovering my work who had never heard of me before.',
     name: 'Veronika A. Grager',
-    book: 'Donauweibchen küssen härter — Germany',
+    book: 'Donauweibchen küssen härter - Germany',
     image: '/Veronika A. Grager.jpg',
   },
   {
-    quote: "In just weeks, my Goodreads discussion reached over 52,000 views. I had been invisible for years. BuchBoost didn't just market my book — they rebuilt my entire author presence from the ground up.",
+    quote: "In just weeks, my Goodreads discussion reached over 52,000 views. I had been invisible for years. Buchaufstieg didn't just market my book - they rebuilt my entire author presence from the ground up.",
     name: 'Bernhard Fink',
-    book: 'Bewusst DENKEN — Austria',
+    book: 'Bewusst DENKEN - Austria',
     image: '/Bernhard Fink.jpg',
   },
   {
-    quote: "My book on Krems' wartime history mattered deeply to me, but I worried it would only ever reach a small academic audience. BuchBoost brought it in front of readers across Austria and Germany — people told me they'd never seen this history discussed quite this way.",
+    quote: "My book on Krems' wartime history mattered deeply to me, but I worried it would only ever reach a small academic audience. Buchaufstieg brought it in front of readers across Austria and Germany - people told me they'd never seen this history discussed quite this way.",
     name: 'Robert Streibel',
-    book: 'Krems 1938–1945 — Austria',
+    book: 'Krems 1938–1945 - Austria',
     image: '/Robert Streibel.jpg',
   },
   {
-    quote: "Die Macht der Kristalle was a niche science fiction novel from a small Austrian press. After BuchBoost's campaign and Goodreads placement, I received my first international 5-star review within days. The reach they gave my book was extraordinary.",
+    quote: "Die Macht der Kristalle was a niche science fiction novel from a small Austrian press. After Buchaufstieg's campaign and Goodreads placement, I received my first international 5-star review within days. The reach they gave my book was extraordinary.",
     name: 'Rudolf Bulant',
-    book: 'Die Macht der Kristalle — Austria',
+    book: 'Die Macht der Kristalle - Austria',
     image: '/Rudolf Bulant.jpg',
   },
   {
-    quote: 'As a literary author writing in Hungarian and German, I never imagined an English-language campaign was possible. BuchBoost made it happen — my work now reaches readers across three language markets I never thought I\'d enter.',
+    quote: 'As a literary author writing in Hungarian and German, I never imagined an English-language campaign was possible. Buchaufstieg made it happen - my work now reaches readers across three language markets I never thought I\'d enter.',
     name: 'Ferenc Barnás',
-    book: 'Bis ans Ende unserer Leben — Hungary / Germany',
+    book: 'Bis ans Ende unserer Leben - Hungary / Germany',
     image: '/Ferenc Barnás.jpg',
   },
 ]
@@ -459,7 +459,7 @@ export const PROCESS_STEPS = [
   {
     num: '02',
     title: 'Campaign Creation',
-    body: 'Cinematic trailers, mockups, Goodreads placements, social content — all crafted with literary and visual precision over 7–14 days.',
+    body: 'Cinematic trailers, mockups, Goodreads placements, social content - all crafted with literary and visual precision over 7–14 days.',
   },
   {
     num: '03',
@@ -476,17 +476,17 @@ export const PROCESS_STEPS = [
 export const DELIVERABLES = [
   {
     title: 'Cinematic Book Mockups',
-    body: 'Your book cover transformed into breathtaking 3D visual scenes — floating in space, resting on ancient stone, glowing in an enchanted forest. Used across Amazon, Goodreads, and social media.',
+    body: 'Your book cover transformed into breathtaking 3D visual scenes - floating in space, resting on ancient stone, glowing in an enchanted forest. Used across Amazon, Goodreads, and social media.',
     tags: 'Amazon A+ Content · Social Posts · Goodreads Banners',
   },
   {
-    title: 'Author Poster — You Are the Story',
-    body: 'We believe: without the author, there is no story. Author posters place you at the centre — your face, your presence, your name — surrounded by the world of your book.',
+    title: 'Author Poster - You Are the Story',
+    body: 'We believe: without the author, there is no story. Author posters place you at the centre - your face, your presence, your name - surrounded by the world of your book.',
     tags: 'Social Campaigns · Press Kits · Amazon Author Page',
   },
   {
     title: 'Goodreads Group Placements',
-    body: 'Strategic placement inside the most active reader communities on Goodreads — matched precisely to your genre and language market. This is where organic discovery lives.',
+    body: 'Strategic placement inside the most active reader communities on Goodreads - matched precisely to your genre and language market. This is where organic discovery lives.',
     tags: '150M+ Reader Community · Algorithm Boosting · Reviews',
   },
   {
@@ -501,7 +501,7 @@ export const DELIVERABLES = [
   },
   {
     title: 'Multi-Language Campaigns',
-    body: 'Your story has no borders. We run campaigns in French, German, English, Spanish, and Dutch — targeting reader communities across 12+ countries worldwide.',
+    body: 'Your story has no borders. We run campaigns in French, German, English, Spanish, and Dutch - targeting reader communities across 12+ countries worldwide.',
     tags: '5 Language Markets · 12+ Countries · Cross-Cultural',
   },
 ]
@@ -511,7 +511,7 @@ export const TRAILER_ITEMS = [
   { category: 'Thriller', title: 'Pour Morgane', subtitle: 'Nicolas Antoniucci · French Thriller', url: 'https://drive.google.com/file/d/1qpFArlGQQBbQEBldAh8rUIWRhLnfFtwh/view' },
   { category: 'Thriller', title: 'The Island of Kamas', subtitle: 'Nicolas Antoniucci · English Version', url: 'https://drive.google.com/file/d/1dxdDYnFQ0aC0XOnfVmfwbnIgc_Go7xYJ/view' },
   { category: 'Campaign', title: 'Book Campaign Reel', subtitle: 'Gitte Jurssen · Author Showcase', url: 'https://drive.google.com/file/d/1aAL6iRAeA7cHHWnDOgRQNRmNe9QkvQPX/view' },
-  { category: 'Dark Fiction', title: 'Déviances — Nouvelles Sombres', subtitle: 'Lucile Gauchers · Dark Fiction', url: 'https://drive.google.com/file/d/1_dlv-11WOyHyLuamJkP9vSNkXQ5-giSh/view' },
+  { category: 'Dark Fiction', title: 'Déviances - Nouvelles Sombres', subtitle: 'Lucile Gauchers · Dark Fiction', url: 'https://drive.google.com/file/d/1_dlv-11WOyHyLuamJkP9vSNkXQ5-giSh/view' },
   { category: 'Legacy Reel', title: 'Author Legacy Reel', subtitle: 'Nicolas Antoniucci · Mini-Documentary', url: 'https://drive.google.com/file/d/1sf-Y-eFc1x1LB3etU2-w6iDTgazXEFyg/view' },
   { category: 'History', title: 'Krems 1938–1945', subtitle: 'Robert Streibel · Austrian History', url: 'https://drive.google.com/file/d/1rt67sAggARxCAyhoy_mbcs4J-15VuV25/view' },
   { category: 'Fantasy', title: 'Donauweibchen küssen härter', subtitle: 'Veronika A. Grager · German Fantasy', url: 'https://drive.google.com/file/d/14qvL3YHZZKqcYvb4A6GtKDAJtVk01UYg/view' },
@@ -529,7 +529,7 @@ export const FAQS = [
   },
   {
     q: 'Do you work with authors in all languages?',
-    a: 'Yes — we run native campaigns in French, German, English, and Spanish. We also support Dutch, Italian, and Portuguese markets through our partner network.',
+    a: 'Yes - we run native campaigns in French, German, English, and Spanish. We also support Dutch, Italian, and Portuguese markets through our partner network.',
   },
   {
     q: "What if I don't have an Amazon listing yet?",
@@ -541,7 +541,7 @@ export const FAQS = [
   },
   {
     q: 'Can I see examples before I decide?',
-    a: 'Absolutely — visit our Portfolio page for real campaign images, trailers, and verified Goodreads metrics from current clients.',
+    a: 'Absolutely - visit our Portfolio page for real campaign images, trailers, and verified Goodreads metrics from current clients.',
   },
 ]
 
@@ -550,25 +550,24 @@ export const TEAM_LEADS = [
     name: 'Jake Stone',
     role: 'Director of Author Growth',
     focus: '📍 Strategy · Partnerships · Closing',
-    body: "Jake oversees every author relationship at BuchBoost from first contact to final results. With a sharp eye for market positioning and a track record of turning invisible books into reader favourites, he leads the agency\u2019s growth strategy across markets worldwide. When you book a call, you speak with Jake.",
+    body: "Jake oversees every author relationship at Buchaufstieg from first contact to final results. With a sharp eye for market positioning and a track record of turning invisible books into reader favourites, he leads the agency\u2019s growth strategy across markets worldwide. When you book a call, you speak with Jake.",
   },
   {
     name: 'Felicia Bele',
     role: 'Creative Director & Campaign Lead',
     focus: '📍 French Markets · Literary Campaigns · Author Branding',
-    body: 'Felicia is the creative heartbeat of BuchBoost. A literary strategist fluent in the language of readers and algorithms alike, she designs every campaign with cinematic precision. She leads the French-speaking market and personally oversees each author\u2019s brand narrative from concept to execution.',
+    body: 'Felicia is the creative heartbeat of Buchaufstieg. A literary strategist fluent in the language of readers and algorithms alike, she designs every campaign with cinematic precision. She leads the French-speaking market and personally oversees each author\u2019s brand narrative from concept to execution.',
   },
 ]
 
 export const AWARDS = [
-  '🏆 Nicolas Antoniucci — Best Author of the Year, Brown University Department of Literary Arts — for CNIDARIA (2026)',
-  '🏆 Nicolas Antoniucci — Recognized for Outstanding Literary Excellence and Impactful Storytelling',
-  '🏆 Veronika A. Grager — Most Influential Author, Brown University Book Club (2026)',
+  '🏆 Nicolas Antoniucci - Best Author of the Year, Brown University Department of Literary Arts - for CNIDARIA (2026)',
+  '🏆 Nicolas Antoniucci - Recognized for Outstanding Literary Excellence and Impactful Storytelling',
+  '🏆 Veronika A. Grager - Most Influential Author, Brown University Book Club (2026)',
 ]
 
 export const CONTACT = {
-  whatsapp: '+44 7407 645787',
-  email: 'BuchBoost@protonmail.com',
-  general: 'buchboost0@gmail.com',
-  tiktok: '@buchboostofficial',
+  whatsapp: '+44 7473 953128',
+  email: 'Buchaufstieg@protonmail.com',
+  general: 'Buchaufstieg0@gmail.com',
 }

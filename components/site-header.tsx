@@ -20,7 +20,7 @@ export function SiteHeader() {
           <div className="mx-auto flex max-w-6xl items-center justify-center gap-3 px-5 py-2 text-center text-xs text-muted-foreground">
           <span className="text-primary">✦</span>
           <span>
-            Ready to grow your book&apos;s reach? Book a free 20-minute strategy call — no pressure,
+            Ready to grow your book&apos;s reach? Book a free 20-minute strategy call - no pressure,
             just a plan.
           </span>
           <Link href="/contact" className="font-medium text-primary underline-offset-4 hover:underline">
@@ -41,7 +41,7 @@ export function SiteHeader() {
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-5">
         <Link href="/" className="flex items-center gap-2 font-serif text-xl tracking-tight">
           <span className="text-primary">✦</span>
-          <span className="font-semibold">BuchBoost</span>
+          <span className="font-semibold">Buchaufstieg</span>
         </Link>
 
         <nav className="hidden items-center gap-7 md:flex" aria-label="Primary">

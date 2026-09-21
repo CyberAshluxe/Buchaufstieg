@@ -6,8 +6,8 @@ export function Philosophy() {
     <section className="mx-auto max-w-6xl px-5 py-24">
       <SectionHeading
         eyebrow="A Question Worth Sitting With"
-        title="We Don't Just Market Books — We Build Author Empires"
-        subtitle="Be honest with me — not for my sake, for yours. If your book disappeared tomorrow and no one ever read it, would anything actually change? And if the answer hurts… what does that tell you?"
+        title="We Don't Just Market Books - We Build Author Empires"
+        subtitle="Be honest with me - not for my sake, for yours. If your book disappeared tomorrow and no one ever read it, would anything actually change? And if the answer hurts… what does that tell you?"
       />
 
       <div className="mt-14 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">

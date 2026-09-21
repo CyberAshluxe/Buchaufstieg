@@ -11,7 +11,7 @@ export function PortfolioPreview() {
         <SectionHeading
           eyebrow="Campaigns That Changed Careers"
           title="This Is What Your Book Could Look Like"
-          subtitle="Every image is a real campaign asset we created for a real author — mockups, author posters, and verified Goodreads placements."
+          subtitle="Every image is a real campaign asset we created for a real author - mockups, author posters, and verified Goodreads placements."
         />
         <div className="mt-14 grid grid-cols-2 gap-5 sm:grid-cols-3 lg:grid-cols-4">
           {preview.map((item, i) => (

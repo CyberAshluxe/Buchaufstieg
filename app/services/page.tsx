@@ -9,9 +9,9 @@ import { CTA } from '@/components/sections/cta'
 import { SERVICES } from '@/lib/site-data'
 
 export const metadata: Metadata = {
-  title: 'Services — 15 Pillars of Book Domination | BuchBoost',
+  title: 'Services - 15 Pillars of Book Domination | Buchaufstieg',
   description:
-    'Book promotion, social media marketing, SEO for authors, paid advertising, branding, blog tours, podcast promotion, and more — every service engineered to turn authors into bestsellers.',
+    'Book promotion, social media marketing, SEO for authors, paid advertising, branding, blog tours, podcast promotion, and more - every service engineered to turn authors into bestsellers.',
 }
 
 export default function ServicesPage() {
@@ -24,7 +24,7 @@ export default function ServicesPage() {
             <SectionHeading
               eyebrow="15 Pillars of Book Domination"
               title="Every Service Is a Precision Instrument"
-              subtitle="From cinematic promotion to paid advertising, every service is built to move your book from obscurity to bestseller status — across every major platform and language market."
+              subtitle="From cinematic promotion to paid advertising, every service is built to move your book from obscurity to bestseller status - across every major platform and language market."
             />
           </div>
         </section>
